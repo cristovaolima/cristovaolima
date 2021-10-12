@@ -7,7 +7,6 @@ Bacharel em Sistemas de Informação pela Universidade Federal do Rio Grande do 
 [![Email](https://img.shields.io/badge/contato@cristovaolima.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@cristovaolima.com.br)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristovaolima&langs_count=8)](https://github.com/cristovaolima?tab=repositories)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristovaolima&show_icons=true&theme=graywhite)
 
 ## Tecnologias
 
@@ -23,6 +22,7 @@ Bacharel em Sistemas de Informação pela Universidade Federal do Rio Grande do 
   <img alt="JavaScript" title="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="React" title="React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="React Native" title="React Native"  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Laravel" title="Laravel"  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img alt="Firebase" title="Firebase"  src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img alt="Netlify" title="Netlify"  src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
   <img alt="Git" title="Git"  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
