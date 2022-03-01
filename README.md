@@ -1,6 +1,6 @@
 ### Olá, eu sou Cristovão Lima 👋
 
-Bacharel em Sistemas de Informação pela Universidade Federal do Rio Grande do Norte - UFRN. Analista de Sistemas e desenvolvedor Full-Stack.
+Bacharel em Sistemas de Informação pela Universidade Federal do Rio Grande do Norte - UFRN. Analista de sistema e desenvolvedor Front-end.
 
 [![Site](https://img.shields.io/badge/cristovaolima.com.br-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://cristovaolima.com.br/)
 [![Linkedin](https://img.shields.io/badge/cristovaolima-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristovaolima)
