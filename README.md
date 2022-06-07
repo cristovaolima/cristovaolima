@@ -1,6 +1,6 @@
 ### Olá, eu sou Cristovão Lima 👋
 
-Bacharel em Sistemas de Informação pela Universidade Federal do Rio Grande do Norte - UFRN. Analista de sistema e desenvolvedor full stack (web & mobile).
+Bacharel em Sistemas de Informação pela Universidade Federal do Rio Grande do Norte - UFRN. Tenho experiência como analista de sistemas e desenvolvimento Web e Mobile, React Js/Native, onde atuei como analista de uma área web administrativa e desenvolvedor full-stack (web & mobile) React JS/Native.
 
 [![Site](https://img.shields.io/badge/cristovaolima.com.br-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://cristovaolima.com.br/)
 [![Linkedin](https://img.shields.io/badge/cristovaolima-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristovaolima)
