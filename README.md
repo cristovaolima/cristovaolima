@@ -6,7 +6,7 @@ Bacharel em Sistemas de Informação pela Universidade Federal do Rio Grande do 
 [![Linkedin](https://img.shields.io/badge/cristovaolima-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristovaolima)
 [![Email](https://img.shields.io/badge/contato@cristovaolima.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@cristovaolima.com.br)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristovaolima&langs_count=8)](https://github.com/cristovaolima?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristovaolima&langs_count=5)](https://github.com/cristovaolima?tab=repositories)
 
 ## Tecnologias
 
